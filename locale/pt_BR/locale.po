@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Transparency Declaration for OJS 0.2.0.5\n"
+"PO-Revision-Date: 2026-07-24 00:00-0400\n"
+"Last-Translator: AITD OJS adaptation\n"
+"Language-Team: Portuguese (Brazil)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.aiTransparencyDeclaration.name"
+msgstr "Declaração de Transparência de IA (AITD)"
+
+msgid "plugins.generic.aiTransparencyDeclaration.description"
+msgstr "Incorpora ao fluxo de submissão, aos metadados do artigo e à sua página pública uma declaração estruturada sobre o uso de inteligência artificial com base no modelo AITD v1.1 (Santamarina, Authier e Sohail, 2026)."
+
+msgid "plugins.generic.aiTransparencyDeclaration.settings.description"
+msgstr "A declaração é adicionada ao formulário de detalhes da submissão e permanece disponível nos metadados da publicação durante o fluxo editorial. Quando estiver completa, também será exibida na página pública do artigo."
+
+msgid "plugins.generic.aiTransparencyDeclaration.settings.requireDeclaration"
+msgstr "Exigir que a pessoa responsável pela submissão declare se foram utilizadas ferramentas de IA."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.title"
+msgstr "Declaração de transparência sobre o uso de inteligência artificial generativa"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.description"
+msgstr "Preencha uma declaração para o manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.status"
+msgstr "Uso de ferramentas de IA"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.status.description"
+msgstr "Selecione a opção que representa o uso de IA durante a preparação deste manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.status.none"
+msgstr "Não foram utilizadas ferramentas de inteligência artificial na preparação deste manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.status.used"
+msgstr "Uma ou mais ferramentas de inteligência artificial foram utilizadas na preparação deste manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.selectAll"
+msgstr "Selecione todos os usos aplicáveis. Uma seção sem opções selecionadas indica que a IA não foi utilizada nesse âmbito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.conceptualization"
+msgstr "1. Conceitualização e ideação"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.literatureReview"
+msgstr "2. Revisão da literatura e síntese"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.methodology"
+msgstr "3. Metodologia e análise"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.writing"
+msgstr "4. Redação e composição"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.interpretation"
+msgstr "5. Interpretação e discussão"
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.hypothesis"
+msgstr "Geração de hipóteses: a IA auxiliou na formulação de perguntas ou hipóteses de pesquisa."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.framework"
+msgstr "Desenvolvimento do referencial teórico: a IA contribuiu para a elaboração de referenciais teóricos ou conceituais."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.researchGap"
+msgstr "Identificação de lacunas: a IA ajudou a identificar lacunas na literatura existente."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.methodologyBrainstorming"
+msgstr "Ideação metodológica: a IA sugeriu abordagens metodológicas."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.projectDesign"
+msgstr "Desenho do projeto: a IA auxiliou no desenho geral ou na estrutura do estudo."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.literatureSearch"
+msgstr "Busca bibliográfica: a IA foi utilizada para pesquisar bases de dados ou identificar publicações relevantes."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.paperSummarization"
+msgstr "Resumo de publicações: a IA resumiu a literatura existente."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.citationManagement"
+msgstr "Gestão de citações: a IA auxiliou na organização ou formatação das citações."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.thematicAnalysis"
+msgstr "Análise temática: a IA ajudou a identificar temas ou padrões na literatura."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.referenceValidation"
+msgstr "Validação de referências: a IA foi utilizada para verificar citações ou referências bibliográficas."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.codeGeneration"
+msgstr "Geração de código: a IA escreveu ou auxiliou na escrita de código ou scripts."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.statisticalAnalysis"
+msgstr "Análise estatística: a IA realizou ou auxiliou na execução de testes estatísticos."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.dataProcessing"
+msgstr "Processamento de dados: a IA limpou, transformou ou processou dados."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.visualization"
+msgstr "Criação de visualizações: a IA criou ou auxiliou na elaboração de figuras ou gráficos."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.methodSelection"
+msgstr "Seleção de métodos: a IA sugeriu métodos ou técnicas apropriados."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.simulationModeling"
+msgstr "Simulação ou modelagem: a IA criou ou executou simulações ou modelos."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.drafting"
+msgstr "Redação de rascunhos: a IA redigiu partes do manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.paraphrasing"
+msgstr "Paráfrase: a IA reformulou conteúdo escrito por pessoas."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.grammarChecking"
+msgstr "Revisão linguística: a IA verificou gramática, ortografia ou sintaxe."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.styleEditing"
+msgstr "Edição de estilo: a IA foi utilizada para melhorar o estilo ou a clareza da redação."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.translation"
+msgstr "Tradução: a IA traduziu textos entre idiomas."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.formatting"
+msgstr "Formatação: a IA auxiliou na formatação ou estrutura do documento."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.resultsInterpretation"
+msgstr "Interpretação de resultados: a IA auxiliou na interpretação dos resultados da pesquisa."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.implications"
+msgstr "Formulação de implicações: a IA sugeriu implicações ou aplicações."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.limitations"
+msgstr "Identificação de limitações: a IA ajudou a identificar limitações do estudo."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.futureResearch"
+msgstr "Pesquisas futuras: a IA sugeriu direções para pesquisas futuras."
+
+msgid "plugins.generic.aiTransparencyDeclaration.use.conclusions"
+msgstr "Formulação de conclusões: a IA auxiliou na elaboração das conclusões."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.usesConfirmation"
+msgstr "Confirmação dos usos declarados"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.usesConfirmation.label"
+msgstr "Confirmo que selecionei todos os usos de IA aplicáveis a este manuscrito e que as seções sem opções selecionadas representam âmbitos nos quais a IA não foi utilizada."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.tools"
+msgstr "Ferramentas de IA utilizadas"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.tools.description"
+msgstr "Informe o nome das principais ferramentas utilizadas, como ChatGPT, Claude, Gemini ou um modelo local."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.versions"
+msgstr "Versões dos modelos e datas de acesso"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.versions.description"
+msgstr "Informe as versões conhecidas e as datas ou o período de uso."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.promptLog"
+msgstr "Link para o registro de instruções ou repositório de código"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.promptLog.description"
+msgstr "Forneça uma URL completa, incluindo uma URL DOI, quando houver um registro disponível. Este campo é opcional."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation"
+msgstr "Método de validação humana"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation.description"
+msgstr "Selecione o procedimento que melhor representa a revisão aplicada aos resultados gerados por IA."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation.minimal"
+msgstr "Básico: todo o conteúdo gerado por IA foi revisado e editado pelas pessoas autoras."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation.standard"
+msgstr "Padrão: todo o conteúdo gerado por IA foi revisado, editado e aprovado por pelo menos duas pessoas coautoras."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation.rigorous"
+msgstr "Rigoroso: o conteúdo gerado por IA foi revisado por duas pessoas autoras, verificado de forma independente com fontes primárias quando aplicável e aprovado por todas as pessoas autoras."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validation.custom"
+msgstr "Procedimento personalizado."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validationDetails"
+msgstr "Descrição do procedimento de validação"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.validationDetails.description"
+msgstr "Descreva o procedimento personalizado utilizado para revisar e verificar os resultados gerados por IA."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.responsibility"
+msgstr "Supervisão humana e responsabilidade"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.responsibility.description"
+msgstr "Esta confirmação faz parte da declaração correspondente ao artigo completo."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.responsibility.label"
+msgstr "As pessoas autoras assumem plena responsabilidade pelo conteúdo do manuscrito. Todo texto, código e sugestão gerados por IA foram criticamente revisados, verificados e editados; os argumentos, as conclusões e a integridade do trabalho pertencem às pessoas autoras."
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.attribution.title"
+msgstr "Modelo e atribuição"
+
+msgid "plugins.generic.aiTransparencyDeclaration.form.attribution.description"
+msgstr "Baseado no Modelo de Declaração de Transparência de IA (AITD) v1.1 de Sergio Santamarina, Carlos Authier e Aamir Sohail (2026). <a href=\"https://doi.org/10.5281/zenodo.18601557\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.5281/zenodo.18601557</a>"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.toggle"
+msgstr "Mostrar declaração"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.status.none"
+msgstr "Nenhum uso de IA declarado"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.status.used"
+msgstr "Uso de IA declarado"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.introduction"
+msgstr "De acordo com o marco da Declaração de Transparência de IA (AITD) v1.1, as pessoas autoras declaram o seguinte uso de inteligência artificial generativa nesta pesquisa."
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.noAi"
+msgstr "As pessoas autoras declaram que não utilizaram ferramentas de inteligência artificial na preparação deste manuscrito."
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.declaredUses"
+msgstr "Usos declarados"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.technicalDetails"
+msgstr "Informações técnicas"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.tools"
+msgstr "Ferramentas de IA"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.versions"
+msgstr "Versões e datas de acesso"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.promptLog"
+msgstr "Registro de instruções ou código"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.humanOversight"
+msgstr "Supervisão humana e verificação"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.validation"
+msgstr "Método de validação"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.responsibility"
+msgstr "Responsabilidade das pessoas autoras"
+
+msgid "plugins.generic.aiTransparencyDeclaration.public.attribution"
+msgstr "AITD v1.1 (Santamarina, Authier e Sohail, 2026)"
+
