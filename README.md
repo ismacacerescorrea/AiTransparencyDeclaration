@@ -24,3 +24,9 @@ Modelo original: https://doi.org/10.5281/zenodo.18601557
 La adaptación tecnológica para las plataformas PKP es desarrollada por **Ismael Cáceres-Correa**, de **Sociedad Realidad e Historia**.
 
 Consulte [CREDITS.md](CREDITS.md) para más información sobre la atribución del trabajo original.
+
+## Licencia
+
+El módulo se distribuye bajo la GNU Affero General Public License, versión 3.0 (AGPL-3.0-only).
+
+Consulte [LICENSE](LICENSE) para conocer sus condiciones.
