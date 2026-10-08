@@ -1,10 +1,10 @@
+**Documentation:** [Español](README.md) | English
 # AI Transparency Declaration (AITD) Plugin
 
 A plugin designed to integrate the **AI Transparency Declaration (AITD) Model** into Public Knowledge Project (PKP) publishing platforms: **Open Journal Systems (OJS), Open Monograph Press (OMP), and Open Preprint Systems (OPS)**.
 
 The project aims to incorporate structured AI-use disclosures into the editorial workflows of scholarly journals, scholarly book publishing platforms, and preprint servers.
 
-**Documentation:** [Español](README.md) | English
 
 ## Platforms and compatibility
 
